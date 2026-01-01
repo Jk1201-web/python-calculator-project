@@ -1,4 +1,4 @@
-**Simple Python Calculator**
+# Simple Python Calculator**
 
 # Description:
 This project is a simple calculator program implemented in Python.
